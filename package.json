@@ -40,7 +40,7 @@
     "@vuepress/theme-default": "<=1.4.0",
     "vue": "^2.6.12",
     "vue-server-renderer": "^2.6.12",
-    "vuepress": "<=1.4.0",
+    "vuepress": "<=1.4.1",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-element-tabs": "^0.1.8",
     "vuepress-plugin-selected-text-popup": "^1.0.0",
