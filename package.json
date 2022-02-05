@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@vuepress/core": "<=1.4.0",
-    "@vuepress/markdown": "<=1.4.0",
+    "@vuepress/markdown": "<=1.4.1",
     "@vuepress/markdown-loader": "<=1.4.0",
     "@vuepress/plugin-active-header-links": "<=1.4.0",
     "@vuepress/plugin-google-analytics": "<=1.4.0",
